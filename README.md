@@ -16,6 +16,19 @@ Collection of links and mods for the Creality CR-30 Printmill
 
 - https://forum.grid.space/t/upgrading-a-cr-30-belt-printer/310 E3Dv6 mount
 
+## Extruder
+
+- https://www.thingiverse.com/thing:4882764 Direct Drive mod
+
+## Leveling
+
+- https://www.thingiverse.com/thing:4859583 Leveling wedge
+
+## Frame
+
+- https://www.thingiverse.com/thing:4882768 Control panel side mount
+- https://www.thingiverse.com/thing:4863439 End of belt print seperator
+
 ## Firmware
 
 - https://github.com/KevinOConnor/klipper/blob/master/config/printer-creality-cr30-2021.cfg Klipper config for the CR-30 board by Ezrec
