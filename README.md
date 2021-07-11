@@ -12,12 +12,10 @@ Collection of links and mods for the [Creality CR-30 Printmill](https://www.crea
 - https://github.com/adelyser/Marlin-CR30/wiki/Creality-4.2.10-UART-mod-(CR-30) UART mod for the CR-30 stock board
 - https://github.com/adelyser/Marlin-CR30/wiki/Silent-fans-on-CR-30-while-idle Silent fan mod for the CR-30 stock board
 
-## Hotends
+## Hotends and Extruders
 
 - https://forum.grid.space/t/upgrading-a-cr-30-belt-printer/310 E3Dv6 mount
-
-## Extruder
-
+- https://www.thingiverse.com/thing:4899020 BMG NF Crazy direct drive
 - https://www.thingiverse.com/thing:4882764 Direct Drive mod
 
 ## Leveling
