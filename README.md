@@ -30,8 +30,9 @@ Collection of links and mods for the [Creality CR-30 Printmill](https://www.crea
 ## Firmware
 
 - https://github.com/KevinOConnor/klipper/blob/master/config/printer-creality-cr30-2021.cfg Klipper config for the CR-30 board by Ezrec
-- https://github.com/kageurufu/Marlin-CR30/releases/latest Upgrade Marlin by kageurufu
-- https://github.com/NAK3DDesigns/CR-30-Firmware Upgrade Marlin by NAK 3D
+- https://github.com/CR30-Users/Marlin-CR30 Upgraded Marlin by adelyser
+- https://github.com/kageurufu/Marlin-CR30/releases/latest Upgraded Marlin by kageurufu
+- https://github.com/NAK3DDesigns/CR-30-Firmware Upgraded Marlin by NAK 3D
 - https://drive.google.com/file/d/1Z9Nzhvz_qPBHzWhFSKQeQmVeUzaKFMdV/view?usp=sharing Stock firmware
 
 ## Motion
