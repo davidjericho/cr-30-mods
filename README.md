@@ -1,5 +1,5 @@
 # cr-30-mods
-Collection of links and mods for the Creality CR-30 Printmill
+Collection of links and mods for the [Creality CR-30 Printmill](https://www.creality.com/goods-detail/creality-3dprintmill-3d-printer )
 
 ## Linear rails
 
