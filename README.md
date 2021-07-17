@@ -35,6 +35,10 @@ Collection of links and mods for the [Creality CR-30 Printmill](https://www.crea
 - https://github.com/NAK3DDesigns/CR-30-Firmware Upgraded Marlin by NAK 3D
 - https://drive.google.com/file/d/1Z9Nzhvz_qPBHzWhFSKQeQmVeUzaKFMdV/view?usp=sharing Stock firmware
 
+## Creality Wi-Fi Cloud Box firmware
+
+- https://github.com/ihrapsa/KlipperWrt/ Klipper on OpenWRT
+
 ## Motion
 
 - https://www.thingiverse.com/thing:4837804 Keyback counter-weight system
